@@ -1,0 +1,69 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    height: 900px;
+    width: 1200px;
+    background-color: #ffffff;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    transform: translate(350px, 0px)
+    
+
+}
+
+.amarillo{
+    height: 260px;
+    width: 1200px;
+    background-color: rgb(245, 208, 44);
+
+}
+
+.celeste{
+    height: 260px;
+    width: 1200px;
+    background-color: rgb(92, 215, 236);
+}
+
+.coral{
+    height: 260px;
+    width: 1200px;
+    background-color: salmon;
+}
+
+.verde{
+    height: 30px;
+    background-color: rgb(133, 241, 148);
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.amarillo img{
+    height:180px;
+    padding-top: 35px;
+    padding-left: 120px;
+    transform: scale(1.3);
+    padding-right: 80px;
+
+}
+
+.celeste img{
+    height:180px;
+    padding-top: 35px;
+    padding-left: 163px;
+    transform: scale(1.3);
+    padding-right: 10px;
+}
+
+.coral img{
+    height:180px;
+    padding-top: 35px;
+    padding-left: 90px;
+    transform: scale(1.3);
+    padding-right: 80px;
+}
